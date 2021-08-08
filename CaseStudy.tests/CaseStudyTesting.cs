@@ -8,7 +8,7 @@ namespace CaseStudy.tests
     {
     
         [Fact]
-        public void TestScanrio_12N_LMLMLMLMM()
+        public void TestSenaryo_12N_LMLMLMLMM()
         {
 
             var x = 1;
@@ -28,7 +28,7 @@ namespace CaseStudy.tests
         }
 
         [Fact]
-        public void TestScanrio_33E_MRRMMRMRRM()
+        public void TestSenaryo_33E_MRRMMRMRRM()
         {
             var x = 3;
             var y = 3;

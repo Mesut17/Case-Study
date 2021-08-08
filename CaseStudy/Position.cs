@@ -15,8 +15,6 @@ namespace CaseStudy
 
     public class Position 
     {
-     
-
         public int X { get;  set; }
         public int Y { get;  set; }
         public Directions Direction { get;  set; }
@@ -123,7 +121,7 @@ namespace CaseStudy
                         this.Rotate90Right();
                         break;
                     default:
-                        Console.WriteLine($"Tanımsız karakter {move}");
+                        Console.WriteLine($"Tanimsiz karakter {move}");
                         break;
                 }
 

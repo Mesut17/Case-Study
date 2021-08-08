@@ -1,0 +1,17 @@
+C:\Users\mesutPC\source\repos\CaseStudy\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mesutPC\source\repos\CaseStudy\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mesutPC\source\repos\CaseStudy\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mesutPC\source\repos\CaseStudy\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestCaseStudy.deps.json
+C:\Users\mesutPC\source\repos\CaseStudy\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestCaseStudy.runtimeconfig.json
+C:\Users\mesutPC\source\repos\CaseStudy\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestCaseStudy.runtimeconfig.dev.json
+C:\Users\mesutPC\source\repos\CaseStudy\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestCaseStudy.dll
+C:\Users\mesutPC\source\repos\CaseStudy\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestCaseStudy.pdb
+C:\Users\mesutPC\source\repos\CaseStudy\UnitTestProject1\bin\Debug\netcoreapp2.1\CaseStudy.dll
+C:\Users\mesutPC\source\repos\CaseStudy\UnitTestProject1\bin\Debug\netcoreapp2.1\CaseStudy.pdb
+C:\Users\mesutPC\source\repos\CaseStudy\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestCaseStudy.csprojAssemblyReference.cache
+C:\Users\mesutPC\source\repos\CaseStudy\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestCaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\mesutPC\source\repos\CaseStudy\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestCaseStudy.AssemblyInfoInputs.cache
+C:\Users\mesutPC\source\repos\CaseStudy\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestCaseStudy.AssemblyInfo.cs
+C:\Users\mesutPC\source\repos\CaseStudy\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestCaseStudy.csproj.CopyComplete
+C:\Users\mesutPC\source\repos\CaseStudy\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestCaseStudy.dll
+C:\Users\mesutPC\source\repos\CaseStudy\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestCaseStudy.pdb

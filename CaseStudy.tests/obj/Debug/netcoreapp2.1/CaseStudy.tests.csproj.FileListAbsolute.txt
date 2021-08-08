@@ -1,0 +1,17 @@
+C:\Users\mesutPC\source\repos\CaseStudy\CaseStudy.tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\mesutPC\source\repos\CaseStudy\CaseStudy.tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\mesutPC\source\repos\CaseStudy\CaseStudy.tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\mesutPC\source\repos\CaseStudy\CaseStudy.tests\bin\Debug\netcoreapp2.1\CaseStudy.tests.deps.json
+C:\Users\mesutPC\source\repos\CaseStudy\CaseStudy.tests\bin\Debug\netcoreapp2.1\CaseStudy.tests.runtimeconfig.json
+C:\Users\mesutPC\source\repos\CaseStudy\CaseStudy.tests\bin\Debug\netcoreapp2.1\CaseStudy.tests.runtimeconfig.dev.json
+C:\Users\mesutPC\source\repos\CaseStudy\CaseStudy.tests\bin\Debug\netcoreapp2.1\CaseStudy.tests.dll
+C:\Users\mesutPC\source\repos\CaseStudy\CaseStudy.tests\bin\Debug\netcoreapp2.1\CaseStudy.tests.pdb
+C:\Users\mesutPC\source\repos\CaseStudy\CaseStudy.tests\obj\Debug\netcoreapp2.1\CaseStudy.tests.csprojAssemblyReference.cache
+C:\Users\mesutPC\source\repos\CaseStudy\CaseStudy.tests\obj\Debug\netcoreapp2.1\CaseStudy.tests.csproj.CoreCompileInputs.cache
+C:\Users\mesutPC\source\repos\CaseStudy\CaseStudy.tests\obj\Debug\netcoreapp2.1\CaseStudy.tests.AssemblyInfoInputs.cache
+C:\Users\mesutPC\source\repos\CaseStudy\CaseStudy.tests\obj\Debug\netcoreapp2.1\CaseStudy.tests.AssemblyInfo.cs
+C:\Users\mesutPC\source\repos\CaseStudy\CaseStudy.tests\obj\Debug\netcoreapp2.1\CaseStudy.tests.dll
+C:\Users\mesutPC\source\repos\CaseStudy\CaseStudy.tests\obj\Debug\netcoreapp2.1\CaseStudy.tests.pdb
+C:\Users\mesutPC\source\repos\CaseStudy\CaseStudy.tests\bin\Debug\netcoreapp2.1\CaseStudy.dll
+C:\Users\mesutPC\source\repos\CaseStudy\CaseStudy.tests\bin\Debug\netcoreapp2.1\CaseStudy.pdb
+C:\Users\mesutPC\source\repos\CaseStudy\CaseStudy.tests\obj\Debug\netcoreapp2.1\CaseStudy.tests.csproj.CopyComplete
